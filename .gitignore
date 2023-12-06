@@ -1,0 +1,16 @@
+*.pyc
+*.zip
+*.csv
+*.xlsx
+.idea
+.vscode
+.DS_Store
+src/__pycache__/
+__pypackages__/
+__pycache__/
+build/
+eggs/
+venv/
+input/
+data/
+datasets/
